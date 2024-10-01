@@ -1,6 +1,6 @@
 # Hi there, I'm Daniel David 👋
 
-I'm a computer science student at Columbia University with a passion for software development, data science, and international affairs. Currently, I'm expanding my knowledge and skills in these areas to make meaningful contributions to the tech and global community.
+I'm a computer science student at Columbia University with a passion for Data science, Artificial Intnteligance, and Finance. Currently, I'm expanding my knowledge and skills in these areas to make meaningful contributions to the tech and global community.
 
 ## 🔍 Interests   
 
