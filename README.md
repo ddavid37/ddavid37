@@ -4,10 +4,10 @@ I'm a computer science student at Columbia University with a passion for softwar
 
 ## 🔍 Interests   
 
-- Software Development
 - Data Science
-- International Affairs
-
+- Artificial Inteligence
+- Finance
+  
 ## 🌱 Current Endeavors   
 
 I'm currently immersed in my computer science studies at Columbia University, delving into various aspects of software engineering and data analysis. Always eager to learn and grow, I'm actively seeking opportunities to deepen my understanding and apply my skills in real-world scenarios.
