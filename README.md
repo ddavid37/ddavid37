@@ -20,3 +20,4 @@ Feel free to reach out to me via:
 email: daniel.david@columbia.edu
 LinkedIn: www.linkedin.com/in/daniel-david-453806205
 Discord: https://discord.gg/3YsHpmxw
+
