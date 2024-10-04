@@ -12,7 +12,7 @@ I'm a computer science student at Columbia University with a passion for Data sc
 
 I'm currently immersed in my computer science studies at Columbia University, delving into various aspects of software engineering and data analysis. Always eager to learn and grow, I'm actively seeking opportunities to deepen my understanding and apply my skills in real-world scenarios.
 
-## 💬 Let's Connect
+## 💬 Let's Connect 
 
 I'm open to collaborating with like-minded individuals who are passionate about technology and making a positive impact. Whether it's discussing innovative ideas, sharing insights, or working on exciting projects together, I'm eager to engage with fellow enthusiasts.
 
