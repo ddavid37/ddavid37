@@ -4,7 +4,7 @@ I'm a computer science student at Columbia University with a passion for Data sc
 
 ## 🔍 Interests    
    
-- Data Science
+- Data Science 
 - Artificial Inteligence 
 - Finance 
   
