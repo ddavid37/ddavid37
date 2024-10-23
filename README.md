@@ -3,7 +3,7 @@
 I'm a computer science student at Columbia University with a passion for Data science, Artificial Intnteligance, and Finance. Currently, I'm expanding my knowledge and skills in these areas to make meaningful contributions to the tech and global community. 
 
 ## 🔍 Interests    
- 
+   
 - Data Science
 - Artificial Inteligence 
 - Finance 
